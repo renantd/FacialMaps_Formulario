@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FacialMaps_Formulario</string>
+
+    <string-array name="Documentos">
+        <item>Selecione o Documento</item>
+        <item>CPF</item>
+        <item>CNH</item>
+        <item>Carteira de Trabalho</item>
+        <item>Título de Eleitor</item>
+        <item>Passaporte</item>
+    </string-array>
+
+    <string-array name="Nacionalidade">
+        <item>Selecione a Nacionalidade</item>
+        <item>Brasil</item>
+        <item>Estados Unidos</item>
+        <item>Canadá</item>
+        <item>Inglaterra</item>
+    </string-array>
+
+    <string-array name="Etnia">
+        <item>Selecione a Etnia</item>
+        <item>Caucasiano(a)</item>
+        <item>Afro-Descendente</item>
+        <item>Latino/Hispânico(a)</item>
+        <item>Asiático(a)</item>
+        <item>Pardo(a)/Mulato(a)</item>
+        <item>Cafuzo(a)</item>
+    </string-array>
+
+</resources>

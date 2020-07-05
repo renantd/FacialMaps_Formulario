@@ -1,0 +1,2 @@
+rootProject.name='FacialMaps_Formulario'
+include ':app'
